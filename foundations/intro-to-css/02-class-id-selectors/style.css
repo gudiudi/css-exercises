@@ -2,3 +2,18 @@
   background-color: pink;
   font-family: Verdana, DejaVu Sans, sans-serif;
 }
+
+#num-2 {
+  color: blue;
+  font-size: 32px;
+}
+
+.odd-num.big {
+  font-size: 24px;
+}
+
+#num-4 {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
